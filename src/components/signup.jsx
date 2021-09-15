@@ -10,7 +10,7 @@ function Signup() {
 
   return (
     <div className="container">
-      <PageHeader title="Login Page" />
+      <PageHeader title="Login" />
       <Card>
         <Card.Body>
           <Form>
